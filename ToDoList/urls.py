@@ -9,3 +9,4 @@ urlpatterns = [
     path('logs/', include('app.urls')),
 ]
 
+#
